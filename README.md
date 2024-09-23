@@ -19,13 +19,15 @@ https://youtu.be/EhA71VcVqbk
 
 Laser Eyes Modal is a redesigned Wallet Connect modal for the Laser Eyes project, aimed at enhancing user experience, functionality, and security. The project was developed in response to the Open Source Public Good track at OP_HACK, sponsored by CTRL.
 
+## Development Process
 
+The initial stages of the Laser Eyes Modal project involved a comprehensive design phase using Figma. This design tool allowed for the creation of wireframes, prototypes, and high-fidelity mockups, ensuring that the final product would meet the desired user experience and aesthetic standards.
 
 ### Key Features
 
 - **Improved UX/UI:** A visually appealing and intuitive interface that simplifies the Wallet Connect process.
 
-- **Smooth Animations:**  Seamless transitions between screens for a more enjoyable user experience.
+- **Smooth Animations:**  Seamless transitions between screens, implemented based on the Figma prototypes, for a more enjoyable user experience.
 
 - **Enhanced Security:**  Incorporates best practices for Wallet Connect security to protect user funds.
 
