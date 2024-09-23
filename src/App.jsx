@@ -1,5 +1,5 @@
 import { LaserEyesProvider } from '@omnisat/lasereyes'
-import { LaserEyesLayout } from './lasereyes/LasereyesLayout'
+import { LaserEyesLayout } from './lasereyes/LaserEyesLayout'
 import { Toaster } from 'react-hot-toast'
 import './App.module.scss'
 
