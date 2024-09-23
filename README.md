@@ -10,7 +10,7 @@
 
 ## Demo
 
-### https://universalprofile.store
+### https://lasereyes-modal.vercel.app
 
 ## YouTube
 https://youtu.be/EhA71VcVqbk
