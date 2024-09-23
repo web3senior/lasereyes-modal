@@ -5,8 +5,10 @@
 ![x Badge](src/assets/badge-package.svg "package")
 ![test Badge](src/assets/badge-hackathon.svg "hackathon")
 ![Prettier Badge](src/assets/badge-prettier.svg "prettier")
-![test Badge](src/assets/badge-test.svg "prettier")
+![test Badge](src/assets/badge-test.svg "test")
 <a href="https://twitter.com/atenyun">![X Badge](src/assets/badge-x.svg "X")</a>
+
+![Cover](src/assets/cover.png "Cover")
 
 ## Demo
 
