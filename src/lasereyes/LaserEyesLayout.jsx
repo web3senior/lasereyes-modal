@@ -3,9 +3,9 @@ import { LEATHER, UNISAT, XVERSE, useLaserEyes } from '@omnisat/lasereyes'
 import LaserEyesShimmer from './components/Shimmer'
 import LaserEyesModal, { Address } from './LaserEyesModal'
 import HeaderShimmer from './../assets/header-shimmer.svg'
-import styles from './LasereyesLayout.module.scss'
+import styles from './LaserEyesLayout.module.scss'
 
-export const LasereyesLayout = () => {
+export const LaserEyesLayout = () => {
   const [showLaserEyesModal, setShowLaserEyesModal] = useState(false)
   const [showWalletAddress, setShowWalletAddress] = useState(false)
   const [showShimmer, setShowShimmer] = useState(true)
