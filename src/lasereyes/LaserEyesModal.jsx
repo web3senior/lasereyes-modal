@@ -110,7 +110,7 @@ export default function LaserEyesModal({ setShowLaserEyesModal }) {
               <li>
                 <div className={`${styles['modal__body__wallet']}`}>
                   <figure>
-                    <img alt={`UniSat`} src={LeatherLogo} />
+                    <img alt={`Leather`} src={LeatherLogo} />
                   </figure>
                   <span>Leather</span>
                   <a href={`#`}>GET</a>
